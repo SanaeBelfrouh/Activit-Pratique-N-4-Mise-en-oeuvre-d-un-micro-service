@@ -12,6 +12,9 @@ Travail à faire :
 10. Créer la couche Service (métier) et du micro service
 11. Créer un Web service GraphQL pour ce micro-service
 </pre>
+![image](https://github.com/SanaeBelfrouh/Activit--Pratique-N-4---Mise-en-oeuvre-d-un-micro-service/assets/116807307/6db0769c-993b-485a-ad04-449857f6e518)
+![image](https://github.com/SanaeBelfrouh/Activit--Pratique-N-4---Mise-en-oeuvre-d-un-micro-service/assets/116807307/6aac7378-c8e4-42e0-8899-75baad9d4f89)
+![image](https://github.com/SanaeBelfrouh/Activit--Pratique-N-4---Mise-en-oeuvre-d-un-micro-service/assets/116807307/4c2755d4-90a6-402c-91d3-fa23759c9287)
 
  Tester le web micro-service en utilisant un client REST comme Postman
 * <h4>Test de methode Get All Accounts :</h4
@@ -38,8 +41,8 @@ Travail à faire :
 
 7- Swagger
 
-
-
+![5](https://github.com/SanaeBelfrouh/Activit--Pratique-N-4---Mise-en-oeuvre-d-un-micro-service/assets/116807307/dfeb4625-174f-41c3-a411-a7b85979b338)
+![6](https://github.com/SanaeBelfrouh/Activit--Pratique-N-4---Mise-en-oeuvre-d-un-micro-service/assets/116807307/c8af862a-e1a4-4cab-a57c-5ab593aaf6b2)
 
 
 8- @RepositoryRestResource
